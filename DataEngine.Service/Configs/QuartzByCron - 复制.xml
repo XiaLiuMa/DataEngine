@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfScheduleServiceConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScheduleServiceConfig>
+    <ID>da08a5f4-6ffa-44c9-9564-f030c44b789e</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_CHWFWGRY.CHWFWGRYService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>cded334a-ebc3-47d8-a0fd-241f9cd8c47d</ID><state>false</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_CRJJTGJ.CRJJTGJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>667d1842-5f35-4304-ab1a-e007eb2222f2</ID><state>true</state><Expresstion>0 0/60 * * * ?</Expresstion><typeName>Jobs_CRJRY.CRJRYService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>4c3fc1a6-b88e-4f06-8127-b0b14437d3d5</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_CZYSJTJ.CZYSJTJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>6b9c2728-28a3-4018-ade5-e44c012322e4</ID><state>false</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_JCSJ.JCSJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>8ef38dee-09dd-400b-b0be-0986b15db938</ID><state>false</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_ZDYMT.ZDYMTService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>10ebf280-b384-4bd1-be01-2a9024073b41</ID><state>false</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_ZDYMS.ZDYMSService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>9e4a7df9-ad07-475c-99a5-5cffbf919192</ID><state>false</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_ZDYMFZ.ZDYMFZService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>bec79f98-403e-41ee-8a76-a86f384df3c6</ID><state>false</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_YJYL.YJYLService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>790bd4d7-d9c1-4470-beff-f5b6fbd4d03f</ID><state>true</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_TDSSXX.TDSSXXService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>3f1adec9-a9e4-44d7-bfc5-e24762bd332e</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_SJTB.SJTBService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>a1db5da9-d050-4a03-94a7-b47f3635d39b</ID><state>false</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_RJYBXX.RJYBXXService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>3177ab6c-572d-4b8d-909c-03726d4cf24e</ID><state>true</state><Expresstion>0/1 * * * * ?</Expresstion><typeName>Jobs_MSSSYWBJ.MSSSYWBJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>cb7696fa-163c-404a-9f52-a65d44414842</ID><state>true</state><Expresstion>28 20 17 * * ?</Expresstion><typeName>Jobs_KNYFTJNY.KNYFTJNYService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>9a6520c8-b5ca-4fe3-a0c7-b65c02bab9aa</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_KNYFTJ.KNYFTJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>4b5a24af-b3fa-4b66-b658-1af7a781c580</ID><state>false</state><Expresstion>3 21 17 * * ?</Expresstion><typeName>Jobs_KNPJTJNY.KNPJTJNYService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>b352f79b-0993-42e5-9991-63efa3404207</ID><state>false</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_KNPJTJ.KNPJTJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>bdc69844-9d87-40cc-9adb-cc1c911755a3</ID><state>true</state><Expresstion>33 21 17 * * ?</Expresstion><typeName>Jobs_KNJTTJNY.KNJTTJNYService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>1fe8f393-3afd-45a7-b21c-880b91199201</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_KAASJTJ.KNJTTJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>d8eb34f3-48cb-4009-931d-541097226754</ID><state>true</state><Expresstion>1 22 17 * * ?</Expresstion><typeName>Jobs_KAASJTJNY.KNJTTJNYService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>ebeee064-3238-4b01-ba12-4b31280b949e</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_KNJTTJ.KNJTTJService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>fb14ebeb-d8e4-4dba-9c00-79bb2c63d16a</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_72XSGJMQLK._72XSGJMQLKService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>36e9612b-2625-40eb-929b-9f6c4761c103</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_CHZKRY.CHZKRYService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>ae6322ef-7101-40fe-b1aa-e1e60bf8a81b</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_ZZRGCLJL.ZZRGCLJLService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>80463a3d-b585-41d6-9387-441a8f956d84</ID><state>true</state><Expresstion>0 0/1 * * * ?</Expresstion><typeName>Jobs_CRJRYLIS.CRJRYLISService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+  <ScheduleServiceConfig>
+    <ID>60f76f12-d173-474a-acbf-5006d230f833</ID><state>true</state><Expresstion>26 29 17 * * ?</Expresstion><typeName>Jobs_CRJSJNTB.CRJSJNTBService</typeName><Conn>7570bedd-7518-4326-aaf5-89afb71bf54b</Conn>
+  </ScheduleServiceConfig>
+</ArrayOfScheduleServiceConfig>

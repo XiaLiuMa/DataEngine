@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Quartz.AspNetCore" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataEngine.Common\DataEngine.Common.csproj" />
+    <ProjectReference Include="..\DataEngine.Db\DataEngine.Db.csproj" />
+    <ProjectReference Include="..\Schedule.Engine.Model\Schedule.Engine.Model.csproj" />
+  </ItemGroup>
+
+</Project>

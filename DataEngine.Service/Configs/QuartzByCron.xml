@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schedulers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SchedulerList>
+    <!--<Scheduler>
+      <Id>da08a5f4-6ffa-44c9-9564-f030c44b789e</Id>
+      <JobName>job1</JobName>
+      <JobGroup>grop1</JobGroup>
+      <Cron>0/5 * * * * ?</Cron>
+      <AssemblyName>Jobs/DataEngine.Jobs.dll</AssemblyName>
+      <ClassName>DataEngine.Jobs.CHZKRYJob</ClassName>
+      <Remark>描述1</Remark>
+    </Scheduler>
+    <Scheduler>
+      <Id>dd08a5f4-6ffa-44c9-9564-f030c44b789e</Id>
+      <JobName>job2</JobName>
+      <JobGroup>grop2</JobGroup>
+      <Cron>0/5 * * * * ?</Cron>
+      <AssemblyName>Schedule.Engine.Core.dll</AssemblyName>
+      <ClassName>Schedule.Engine.Core.CHWFWGRYJob</ClassName>
+      <Remark>描述2</Remark>
+    </Scheduler>-->
+    <Scheduler>
+      <Id>dc08a5f4-6ffa-44c9-9564-f030c44b789e</Id>
+      <JobName>job3</JobName>
+      <JobGroup>grop3</JobGroup>
+      <Cron>0/5 * * * * ?</Cron>
+      <AssemblyName>DataEngine.Service.dll</AssemblyName>
+      <ClassName>DataEngine.Service.CRJRYJob</ClassName>
+      <Remark>描述3</Remark>
+    </Scheduler>
+  </SchedulerList>
+</Schedulers>
